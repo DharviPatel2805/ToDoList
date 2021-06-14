@@ -6,10 +6,13 @@ ToDoList using Node.js and Express.js
 - Description
 - Built With
 - Getting Started
-- Contacts
+- Project Link
 ----------------
 # Description
+This project is build with Node.js and express.js and also i used ejs templates.
+For storing database MongoDB is used in this project.
 
+To-do-List : Add your daily routine work in To-Do-List and make easy your work schedule and save your time with it.
 
 # Built with
 - Html
@@ -33,5 +36,5 @@ Make sure before run app.js your mongod server is running
 Then in the last run app.js
 > node app.js
 
-# Contacts
+# Project Link
 Git repo - [Project Link](https://github.com/DharviPatel2805/ToDoList/)
